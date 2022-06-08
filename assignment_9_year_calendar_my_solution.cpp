@@ -48,7 +48,7 @@ void print_years(size_t year, size_t first_day) {
     }
 }
 
-int year_calendar() {
+int year_calendar() { //entry point
     while  (true) {
         std::cout << "Enter a year : ";
         size_t year{ 0 };
