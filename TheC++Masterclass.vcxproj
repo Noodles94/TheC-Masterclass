@@ -141,7 +141,40 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="assignment_9_year_calendar_my_solution.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="coding_exercise_10_eliminating_duplicates.cpp" />
+    <ClCompile Include="coding_exercise_11_the_collection_is_sorted.cpp" />
+    <ClCompile Include="coding_exercise_12_hunt_for_vowels.cpp" />
+    <ClCompile Include="coding_exercise_13_what_do_we_have_in_common.cpp" />
+    <ClCompile Include="assignment_10_the_calculator.cpp" />
+    <ClCompile Include="coding_exercise_34_odd_series.cpp" />
+    <ClCompile Include="pointer_fun.cpp" />
+    <ClCompile Include="coding_exercise_14_where_does_the_big_guy_live.cpp" />
+    <ClCompile Include="coding_exercise_15_shoot_forward.cpp" />
+    <ClCompile Include="coding_exercise_16_finding_nemo.cpp" />
+    <ClCompile Include="coding_exercise_17_merge_them.cpp" />
+    <ClCompile Include="coding_exercise_18_declare_own_reference.cpp" />
+    <ClCompile Include="coding_exercise_19_how_of_them.cpp" />
+    <ClCompile Include="coding_exercise_20_hunt_them_and_replace_them.cpp" />
+    <ClCompile Include="coding_exercise_21_making_sense.cpp" />
+    <ClCompile Include="coding_exercise_22_build_from_raw_pieces.cpp" />
+    <ClCompile Include="coding_exercise_23_who_is_the_greatest.cpp" />
+    <ClCompile Include="coding_exercise_24_find_matches.cpp" />
+    <ClCompile Include="coding_exercise_25_sum_up_the_digits.cpp" />
+    <ClCompile Include="coding_exercise_26_show_the_odds.cpp" />
+    <ClCompile Include="coding_exercise_27_palindrome.cpp" />
+    <ClCompile Include="coding_exercise_28_who_has_char.cpp" />
+    <ClCompile Include="coding_exercise_29_day_of_the_week.cpp" />
+    <ClCompile Include="coding_exercise_30_even_sums.cpp" />
+    <ClCompile Include="coding_exercise_31_we_messed_up.cpp" />
+    <ClCompile Include="coding_exercise_32_function_overloading.cpp" />
+    <ClCompile Include="lambda.cpp" />
+    <ClCompile Include="coding_exercise_35_factorial.cpp" />
+    <ClCompile Include="coding_exercise_33_self_tracking_function.cpp" />
+    <ClCompile Include="coding_exercise_36_38_39_hunt_them.cpp" />
+    <ClCompile Include="coding_exercise_37_swap_em.cpp" />
+    <ClCompile Include="coding_exercise_40_.cpp" />
+    <ClCompile Include="coding_exercise_41_find_em_values.cpp" />
+    <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

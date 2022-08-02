@@ -16,13 +16,148 @@
     <Filter Include="Source Files\Section 11: Loops">
       <UniqueIdentifier>{144a411e-f8c3-48bc-94b7-c6208097e8d1}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source Files\Section 12: Arrays">
+      <UniqueIdentifier>{6388af00-0b4d-47af-bbb0-fbcba922911b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Section 13: Pointers">
+      <UniqueIdentifier>{0adb3457-efc9-4440-bf06-1bf614ece57e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Section 14: References">
+      <UniqueIdentifier>{fff0ed06-bd60-481b-abdd-3dcf3749e5cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Section 15: Charactermanipulation_and_Strings">
+      <UniqueIdentifier>{e5ce459b-7b51-4dfa-b37b-fbfe23714163}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Section 16: Functions">
+      <UniqueIdentifier>{e7468278-477f-4bf2-a7c6-0d22ddf18d9d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Section 17: Enums">
+      <UniqueIdentifier>{33d972cb-dccf-46c4-ad9a-9fde2806f95d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Section 23: Things out of functions">
+      <UniqueIdentifier>{d2537393-788b-458d-ae15-2c6e9b4324c5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Section 24: Function Overloading">
+      <UniqueIdentifier>{d7854b09-3115-4415-b602-91954a81ceec}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Section 25: Lambda">
+      <UniqueIdentifier>{cc2fbe0a-ffea-4b17-95d1-1718b7d52a30}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Section 26: The Misfits">
+      <UniqueIdentifier>{2bab09c7-34f8-4d80-a071-203659d7d512}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Section 28: Function templates">
+      <UniqueIdentifier>{8ebba1ca-17f8-46aa-8f5b-6626d248fca4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Section 29: Concepts">
+      <UniqueIdentifier>{dcf0f1d9-328f-43ea-9b9b-577c5b5f0eb7}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="assignment_9_year_calendar_my_solution.cpp">
       <Filter>Source Files\Section 11: Loops</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
-      <Filter>Source Files</Filter>
+    <ClCompile Include="coding_exercise_10_eliminating_duplicates.cpp">
+      <Filter>Source Files\Section 12: Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_11_the_collection_is_sorted.cpp">
+      <Filter>Source Files\Section 12: Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_12_hunt_for_vowels.cpp">
+      <Filter>Source Files\Section 12: Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_13_what_do_we_have_in_common.cpp">
+      <Filter>Source Files\Section 12: Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="assignment_10_the_calculator.cpp">
+      <Filter>Source Files\Section 12: Arrays</Filter>
+    </ClCompile>
+    <ClCompile Include="pointer_fun.cpp">
+      <Filter>Source Files\Section 13: Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_14_where_does_the_big_guy_live.cpp">
+      <Filter>Source Files\Section 13: Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_15_shoot_forward.cpp">
+      <Filter>Source Files\Section 13: Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_16_finding_nemo.cpp">
+      <Filter>Source Files\Section 13: Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_17_merge_them.cpp">
+      <Filter>Source Files\Section 13: Pointers</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_18_declare_own_reference.cpp">
+      <Filter>Source Files\Section 14: References</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_19_how_of_them.cpp">
+      <Filter>Source Files\Section 15: Charactermanipulation_and_Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_20_hunt_them_and_replace_them.cpp">
+      <Filter>Source Files\Section 15: Charactermanipulation_and_Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_21_making_sense.cpp">
+      <Filter>Source Files\Section 15: Charactermanipulation_and_Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_22_build_from_raw_pieces.cpp">
+      <Filter>Source Files\Section 15: Charactermanipulation_and_Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_23_who_is_the_greatest.cpp">
+      <Filter>Source Files\Section 15: Charactermanipulation_and_Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_24_find_matches.cpp">
+      <Filter>Source Files\Section 15: Charactermanipulation_and_Strings</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_25_sum_up_the_digits.cpp">
+      <Filter>Source Files\Section 16: Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_26_show_the_odds.cpp">
+      <Filter>Source Files\Section 16: Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_27_palindrome.cpp">
+      <Filter>Source Files\Section 16: Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_28_who_has_char.cpp">
+      <Filter>Source Files\Section 16: Functions</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_29_day_of_the_week.cpp">
+      <Filter>Source Files\Section 17: Enums</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_30_even_sums.cpp">
+      <Filter>Source Files\Section 23: Things out of functions</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_31_we_messed_up.cpp">
+      <Filter>Source Files\Section 23: Things out of functions</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_32_function_overloading.cpp">
+      <Filter>Source Files\Section 24: Function Overloading</Filter>
+    </ClCompile>
+    <ClCompile Include="lambda.cpp">
+      <Filter>Source Files\Section 25: Lambda</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_35_factorial.cpp">
+      <Filter>Source Files\Section 26: The Misfits</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_33_self_tracking_function.cpp">
+      <Filter>Source Files\Section 26: The Misfits</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_34_odd_series.cpp">
+      <Filter>Source Files\Section 26: The Misfits</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_36_38_39_hunt_them.cpp">
+      <Filter>Source Files\Section 28: Function templates</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_37_swap_em.cpp">
+      <Filter>Source Files\Section 28: Function templates</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_40_.cpp">
+      <Filter>Source Files\Section 28: Function templates</Filter>
+    </ClCompile>
+    <ClCompile Include="coding_exercise_41_find_em_values.cpp">
+      <Filter>Source Files\Section 28: Function templates</Filter>
+    </ClCompile>
+    <ClCompile Include="Source.cpp">
+      <Filter>Source Files\Section 29: Concepts</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
