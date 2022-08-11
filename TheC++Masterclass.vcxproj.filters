@@ -156,6 +156,9 @@
     <ClCompile Include="coding_exercise_41_find_em_values.cpp">
       <Filter>Source Files\Section 28: Function templates</Filter>
     </ClCompile>
+    <ClCompile Include="assignment_11_put_em_strings_together.cpp">
+      <Filter>Source Files\Section 29: Concepts</Filter>
+    </ClCompile>
     <ClCompile Include="Source.cpp">
       <Filter>Source Files\Section 29: Concepts</Filter>
     </ClCompile>
